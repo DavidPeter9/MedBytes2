@@ -1,0 +1,12 @@
+{
+  "name": "MedBytes2",
+  "displayName": "MedBytes2",
+  "expo": {
+    "name": "MedBytes2",
+    "slug": "MedBytes2",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
